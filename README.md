@@ -1,6 +1,6 @@
 # Heartfelt Predictions: Machine Learning to Avoid Cardiac Disasters
 
-![Alt Text]([https:Team9DataScienceChallenge](https://github.com/atharva789/cardio_challenge_final/blob/main/Team9DataScienceChallenge.png))
+![Research Poster](Team9DataScienceChallenge.png)
 
 
 ## Overview
