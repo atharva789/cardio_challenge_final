@@ -1,6 +1,6 @@
 # Heartfelt Predictions: Machine Learning to Avoid Cardiac Disasters
 
-![Alt Text](https:Team9DataScienceChallenge.png)
+![Alt Text](https:Team9DataScienceChallenge)
 
 
 ## Overview
