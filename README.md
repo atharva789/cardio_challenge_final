@@ -1,5 +1,8 @@
 # Heartfelt Predictions: Machine Learning to Avoid Cardiac Disasters
 
+![Alt Text](https:Team9DataScienceChallenge.png)
+
+
 ## Overview
 
 This repository contains machine learning models developed as part of **Team 9**'s work for the **Cardio Challenge** under the auspices of the U.S. Department of Energy at **Lawrence Livermore National Laboratory (LLNL)**. The primary focus is on detecting cardiac abnormalities using ECG data and predicting activation times in the myocardium. The repository includes various binary and multi-class classification models as well as advanced techniques for feature extraction and activation map reconstruction.
